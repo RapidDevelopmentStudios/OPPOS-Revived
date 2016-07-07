@@ -1,0 +1,14 @@
+{
+    "id": "OPPOSRevived",
+    "name": "OPPOS Revived",
+	"version": "1.0 Beta 1",
+    "author": "Rapid Development Studios",
+    "url": "",
+    "description": "This mod adds in some overpowered items into your game to make starting off more than easy.",
+    "main": "./Main.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    },
+    "image": "Img/Platform/OPPOS Console.png"
+
+}
